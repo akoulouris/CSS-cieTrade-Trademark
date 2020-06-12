@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/akoulouris/CSS-cieTrade-Trademark/master/Screenshots/Cietrade-CSS tradeMark.gif" width="500"  alt="image of the landscape mode">
 
 # Project Summary
-Breaking News to all failed painter (like myself) out there. Now you are able to paint using CSS.
+Breaking News to all failed painter (like myself) out there. Now you are able to paint with CSS. The animated image above were actually coded using only CSS and HTML
 
 
 # Tools Used 
